@@ -14,6 +14,16 @@
     {
       "name": "OAmP-1.20.1-V3.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/OAmP-1.20.1-V3.jar"
-    }
+    },
+    
+    {
+      "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/Immersive Vehicles-1.20.1-24.0.0.jar"
+    },
+
+    {
+      "name": "MTS Official Pack-1.20.1-V29.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/MTS Official Pack-1.20.1-V29.jar"
+    },
   ]
 }
