@@ -1,14 +1,9 @@
-
 {
   "version": "1.0",
   "mods": [
     {
-      "name": "sodium.jar",
-      "url": "https://raw.githubusercontent.com/Rapouilll/minecraft-modpack/main/mods/sodium.jar"
-    },
-    {
-      "name": "iris.jar",
-      "url": "https://raw.githubusercontent.com/Rapouilll/minecraft-modpack/main/mods/iris.jar"
+      "name": "naturalist.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/naturalist-5.0pre2+forge-1.20.1.jar"
     }
   ]
 }
