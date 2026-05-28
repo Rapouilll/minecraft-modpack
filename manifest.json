@@ -29,6 +29,11 @@
     {
       "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/releases/download/v1/smallships-forge-1.20.1-2.0.0-b1.4.jar"
+    },
+    
+    {
+      "name": "nirvana-forge-1.2.5.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/releases/download/v1/nirvana-forge-1.2.5.jar"
     }
   ]
 }
