@@ -63,6 +63,11 @@
     {
       "name": "charmofundying-forge-6.5.0+1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/charmofundying-forge-6.5.0+1.20.1.jar"
+    },
+
+    {
+      "name": "balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.38-all.jar"
     }
   ]
 }
