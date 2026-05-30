@@ -23,12 +23,12 @@
 
     {
       "name": "MTS.Official.Pack-1.20.1-V29.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/releases/download/v1/MTS.Official.Pack-1.20.1-V29.jar"
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/MTS.Official.Pack-1.20.1-V29.jar"
     },
 
     {
       "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/releases/download/v1/smallships-forge-1.20.1-2.0.0-b1.4.jar"
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar"
     },
     
     {
