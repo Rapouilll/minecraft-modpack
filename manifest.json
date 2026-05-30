@@ -38,6 +38,11 @@
     {
       "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/Towns-and-Towers-1.12-Fabric+Forge.jar"
+    },
+    
+    {
+      "name": "entityculling-forge-1.10.2-mc1.20.1.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/entityculling-forge-1.10.2-mc1.20.1.jar"
     }
   ]
 }
