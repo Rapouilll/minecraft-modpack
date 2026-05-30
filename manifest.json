@@ -68,6 +68,11 @@
     {
       "name": "balm-forge-1.20.1-7.3.38-all.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.38-all.jar"
+    },
+
+    {
+      "name": "cristellib-1.1.6-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/cristellib-1.1.6-forge.jar"
     }
   ]
 }
