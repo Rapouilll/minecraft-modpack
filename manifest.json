@@ -149,6 +149,11 @@
      {
       "name": "immersive_armors-1.7.2+1.20.1-fabric.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/immersive_armors-1.7.2+1.20.1-fabric.jar"
+    },
+
+     {
+      "name": "mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar"
     }
   ]
 }
