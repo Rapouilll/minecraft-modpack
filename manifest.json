@@ -98,6 +98,12 @@
     {
       "name": "jei-1.20.1-forge-15.20.0.130.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.130.jar"
+    },
+
+
+    {
+      "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
     }
   ]
 }
