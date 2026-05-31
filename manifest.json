@@ -144,6 +144,11 @@
      {
       "name": "moonlight-1.20-2.16.32-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/moonlight-1.20-2.16.32-forge.jar"
+    },
+
+     {
+      "name": "immersive_armors-1.7.2+1.20.1-fabric.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/immersive_armors-1.7.2+1.20.1-fabric.jar"
     }
   ]
 }
