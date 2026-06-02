@@ -204,6 +204,11 @@
      {
       "name": "uilib-0.3.5-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/uilib-0.3.5-forge.jar"
+    },
+
+     {
+      "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
     }
   ]
 }
