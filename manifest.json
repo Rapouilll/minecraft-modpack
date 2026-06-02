@@ -189,6 +189,11 @@
      {
       "name": "arc-1.7.2-1.20.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/arc-1.7.2-1.20.1-forge.jar"
+    },
+
+     {
+      "name": "architectury-9.2.14-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/architectury-9.2.14-forge.jar"
     }
   ]
 }
