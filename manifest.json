@@ -194,6 +194,11 @@
      {
       "name": "architectury-9.2.14-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/architectury-9.2.14-forge.jar"
+    },
+
+     {
+      "name": "itemrestrictions-1.2.1-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/itemrestrictions-1.2.1-forge.jar"
     }
   ]
 }
