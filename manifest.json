@@ -199,6 +199,11 @@
      {
       "name": "itemrestrictions-1.2.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/itemrestrictions-1.2.1-forge.jar"
+    },
+
+     {
+      "name": "uilib-0.3.5-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/uilib-0.3.5-forge.jar"
     }
   ]
 }
