@@ -5,32 +5,26 @@
       "name": "naturalist-5.0pre2+forge-1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/naturalist-5.0pre2+forge-1.20.1.jar"
     },
-
     {
       "name": "geckolib-forge-1.20.1-4.8.3.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/geckolib-forge-1.20.1-4.8.3.jar"
     },
-
     {
       "name": "OAmP-1.20.1-V3.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/OAmP-1.20.1-V3.jar"
     },
-
     {
       "name": "Immersive Vehicles-1.20.1-24.0.0.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/Immersive Vehicles-1.20.1-24.0.0.jar"
     },
-
     {
       "name": "MTS.Official.Pack-1.20.1-V29.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/releases/download/v1/MTS.Official.Pack-1.20.1-V29.jar"
     },
-
     {
       "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/smallships-forge-1.20.1-2.0.0-b1.4.jar"
     },
-    
     {
       "name": "nirvana-forge-1.2.5.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/nirvana-forge-1.2.5.jar"
@@ -39,174 +33,135 @@
       "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/Towns-and-Towers-1.12-Fabric+Forge.jar"
     },
-    
     {
       "name": "entityculling-forge-1.10.2-mc1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/entityculling-forge-1.10.2-mc1.20.1.jar"
     },
-
     {
       "name": "waystones-forge-1.20.1-14.1.20.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/waystones-forge-1.20.1-14.1.20.jar"
     },
-
     {
       "name": "sophisticatedbackpacks-1.20.1-3.24.43.1789.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/sophisticatedbackpacks-1.20.1-3.24.43.1789.jar"
     },
-    
     {
       "name": "elytraslot-forge-6.4.4+1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/elytraslot-forge-6.4.4+1.20.1.jar"
     },
-    
     {
       "name": "charmofundying-forge-6.5.0+1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/charmofundying-forge-6.5.0+1.20.1.jar"
     },
-
     {
       "name": "balm-forge-1.20.1-7.3.38-all.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/balm-forge-1.20.1-7.3.38-all.jar"
     },
-
     {
       "name": "cristellib-1.1.6-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/cristellib-1.1.6-forge.jar"
     },
-
     {
       "name": "curios-forge-5.14.1+1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/curios-forge-5.14.1+1.20.1.jar"
     },
-
     {
       "name": "kotlinforforge-4.12.0-all.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/kotlinforforge-4.12.0-all.jar"
     },
-
     {
       "name": "caelus-forge-3.2.0+1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/caelus-forge-3.2.0+1.20.1.jar"
     },
-
     {
       "name": "sophisticatedcore-1.20.1-1.3.38.1893.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/sophisticatedcore-1.20.1-1.3.38.1893.jar"
     },
-
     {
       "name": "jei-1.20.1-forge-15.20.0.130.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/jei-1.20.1-forge-15.20.0.130.jar"
     },
-
-
     {
       "name": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
     },
-
     {
       "name": "siege-machines-1.20.1-forge-1.39.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/siege-machines-1.20.1-forge-1.39.jar"
     },
-
     {
       "name": "immersive_armors-1.7.2+1.20.1-fabric.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/immersive_armors-1.7.2+1.20.1-fabric.jar"
     },
-
     {
       "name": "xaerominimap-forge-1.20.1-25.3.13.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/xaerominimap-forge-1.20.1-25.3.13.jar"
     },
-
     {
       "name": "FarmersDelight-1.20.1-1.3.2.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/FarmersDelight-1.20.1-1.3.2.jar"
     },
-
     {
       "name": "SHW 1.1.0 [FORGE] 1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/SHW 1.1.0 [FORGE] 1.20.1.jar"
     },
-
-     {
+    {
       "name": "playershops-1.2.3-1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/playershops-1.2.3-1.20.1.jar"
     },
-
-     {
+    {
       "name": "supplementaries-1.20-3.1.43-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/supplementaries-1.20-3.1.43-forge.jar"
     },
-
-     {
+    {
       "name": "moonlight-1.20-2.16.32-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/moonlight-1.20-2.16.32-forge.jar"
     },
-
-     {
-      "name": "immersive_armors-1.7.2+1.20.1-fabric.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/immersive_armors-1.7.2+1.20.1-fabric.jar"
-    },
-
-     {
-      "name": "mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar"
-    },
-
-     {
-      "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
-    },
-
-     {
+    {
       "name": "citadel-2.6.3-1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/citadel-2.6.3-1.20.1.jar"
     },
-
-     {
+    {
       "name": "bettervillage-forge-1.20.1-3.3.1-all.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/bettervillage-forge-1.20.1-3.3.1-all.jar"
     },
-
-     {
+    {
       "name": "libraryferret-forge-1.20.1-4.0.0.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/libraryferret-forge-1.20.1-4.0.0.jar"
     },
-
-     {
+    {
+      "name": "mofus_broken_constellation-0.9.0-forge-1.20.1.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/mofus_broken_constellation-0.9.0-forge-1.20.1.jar"
+    },
+    {
+      "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/iceandfire-2.1.13-1.20.1-beta-5.jar"
+    },
+    {
       "name": "jobsplus-1.3.10-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/jobsplus-1.3.10-forge.jar"
     },
-
-     {
+    {
       "name": "jobsplustools-1.2-1.20.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/jobsplustools-1.2-1.20.1-forge.jar"
     },
-
-     {
+    {
       "name": "arc-1.7.2-1.20.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/arc-1.7.2-1.20.1-forge.jar"
     },
-
-     {
+    {
       "name": "architectury-9.2.14-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/architectury-9.2.14-forge.jar"
     },
-
-     {
+    {
       "name": "itemrestrictions-1.2.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/itemrestrictions-1.2.1-forge.jar"
     },
-
-     {
+    {
       "name": "uilib-0.3.5-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/uilib-0.3.5-forge.jar"
     },
-
-     {
+    {
       "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
     }
