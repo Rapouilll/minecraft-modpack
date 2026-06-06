@@ -176,6 +176,10 @@
     {
       "name": "oculus-mc1.20.1-1.8.0.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "name": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/embeddium-0.3.31+mc1.20.1.jar"
     }
   ]
 }
