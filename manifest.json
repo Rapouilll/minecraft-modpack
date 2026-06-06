@@ -176,6 +176,10 @@
     {
       "name": "EuphoriaPatcher-1.9.3-r5.8.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar"
+    },
+    {
+      "name": "OptiFine_1.20.1_HD_U_I6.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/OptiFine_1.20.1_HD_U_I6.jar"
     }
   ]
 }
