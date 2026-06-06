@@ -164,6 +164,10 @@
     {
       "name": "voicechat-forge-1.20.1-2.6.18.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/voicechat-forge-1.20.1-2.6.18.jar"
+    },
+    {
+      "name": "modernfix-forge-5.27.40+mc1.20.1.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/modernfix-forge-5.27.40+mc1.20.1.jar"
     }
   ]
 }
