@@ -170,16 +170,12 @@
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/modernfix-forge-5.27.40+mc1.20.1.jar"
     },
     {
-      "name": "ferritecore-6.0.1-forge.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/ferritecore-6.0.1-forge.jar"
+      "name": "rubidium-mc1.20.1-0.7.1a.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/rubidium-mc1.20.1-0.7.1a.jar"
     },
     {
-      "name": "EuphoriaPatcher-1.9.3-r5.8.1-forge.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar"
-    },
-    {
-      "name": "OptiFine_1.20.1_HD_U_I6.jar",
-      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/OptiFine_1.20.1_HD_U_I6.jar"
+      "name": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/oculus-mc1.20.1-1.8.0.jar"
     }
   ]
 }
