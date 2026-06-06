@@ -172,6 +172,10 @@
     {
       "name": "ferritecore-6.0.1-forge.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/ferritecore-6.0.1-forge.jar"
+    },
+    {
+      "name": "EuphoriaPatcher-1.9.3-r5.8.1-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/EuphoriaPatcher-1.9.3-r5.8.1-forge.jar"
     }
   ]
 }
