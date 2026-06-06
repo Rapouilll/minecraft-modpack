@@ -176,6 +176,10 @@
     {
       "name": "embeddium-0.3.31+mc1.20.1.jar",
       "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/embeddium-0.3.31+mc1.20.1.jar"
+    },
+    {
+      "name": "ferritecore-6.0.1-forge.jar",
+      "url": "https://github.com/Rapouilll/minecraft-modpack/raw/refs/heads/main/mods/ferritecore-6.0.1-forge.jar"
     }
   ]
 }
